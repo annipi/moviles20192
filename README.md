@@ -7,5 +7,6 @@
 |0|Hola Mundo en Android Studio|29 Ago|[Link](https://github.com/annipi/moviles20192/tree/master/Hello%20World)|
 |1|Propuesta proyecto|03 Sep|[Link](https://docs.google.com/presentation/d/1copo31JGSz3zKXXhCsCl_xVLg92jIZxgXIdfsi)|
 |2|Prototipo y Modelo Canvas|10 Sep|[Link](https://wireframepro.mockflow.com/view/M0ac1166734f48da164416745c7dd961f1567985503730)|
+|3| Interfaz gráfica (Tic-tac-toe) Android Studio|17 Sep|[Link](https://github.com/annipi/moviles20192/tree/master/AndroidTicTacToe)|
 
 Anni Alejandra Piragauta Urrea - aapiragautau@unal.edu.co
