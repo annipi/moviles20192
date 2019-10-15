@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal">
+
+    <com.example.hells.androidtic_tac_toe.BoardView
+        android:id="@+id/board"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="5dp"/>
+
+    <TextView
+        android:id="@+id/information"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="info"
+        android:textSize="20dp"
+        android:layout_marginTop="20dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+        <TextView android:id="@+id/lblHuman"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/human_label"/>
+        <TextView android:id="@+id/humanScore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/lblHuman"
+            android:text="0"/>
+        <TextView android:id="@+id/lblTies"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tie_label"/>
+        <TextView android:id="@+id/tiesScore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/lblTies"
+            android:text="0"/>
+        <TextView android:id="@+id/lblAndroid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/androidScore"
+            android:text="@string/android_label"/>
+        <TextView android:id="@+id/androidScore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="0"/>
+    </RelativeLayout>
+
+</LinearLayout>
