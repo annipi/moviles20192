@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Directorio empresarial</string>
+    <string name="title_activity_main">Directorio empresarial</string>
+    <string name="choose_menu">Escoge una opción</string>
+    <string name="view_all_enterprises">Ver todas las empresas</string>
+    <string name="remove_enterprise">Borrar empresa</string>
+    <string name="update_enterprise">Actualizar empresa</string>
+    <string name="add_enterprise">Añadir empresa</string>
+    <string name="classification">Clasificación</string>
+    <string name="add_url">Sitio web</string>
+    <string name="add_name">Nombre</string>
+    <string name="string_consulting">Consultoría</string>
+    <string name="string_tailored_development">Desarrollo a la medida</string>
+    <string name="string_software_factory">Fábrica de Software</string>
+    <string name="edit_text_phone">Teléfono</string>
+    <string name="edit_text_email">Correo electrónico</string>
+    <string name="edit_text_products_and_services">Productos y Servicios</string>
+    <string name="string_text_enterprise_id">ID de la Empresa</string>
+    <string name="title_activity_view_all_enterprises">ViewAllEnterprises</string>
+</resources>
