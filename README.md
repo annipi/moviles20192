@@ -10,5 +10,8 @@
 |3| Interfaz gráfica (Tic-tac-toe) Android Studio|17 Sep|[Link](https://github.com/annipi/moviles20192/tree/master/3/AndroidTicTacToe)|
 |4| Menus y Diálogos(Tic-tac-toe) Android Studio|24 Sep|[Link](https://github.com/annipi/moviles20192/tree/master/4/AndroidTicTacToe)|
 |5| Incorporando gráficos y audio(Tic-tac-toe) Android Studio|1 Oct|[Link](https://github.com/annipi/moviles20192/tree/master/5/AndroidTicTacToe)|
+|6| Preferencias(Tic-tac-toe) Android Studio|15 Oct|[Link](https://github.com/annipi/moviles20192/tree/master/6/AndroidTicTacToe)|
+|8| Enterprise (SQLite) Android Studio|12 Nov|[Link](https://github.com/annipi/moviles20192/tree/master/8/SQLite)|
+
 
 Anni Alejandra Piragauta Urrea - aapiragautau@unal.edu.co
